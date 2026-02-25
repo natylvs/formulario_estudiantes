@@ -8,13 +8,8 @@ Evidencia de ejecución
 A continuación, se incluyen imágenes que muestran el funcionamiento y la ejecución correcta del programa.
 
 <img width="478" height="246" alt="image" src="https://github.com/user-attachments/assets/ef488745-2a0b-4272-bf8e-ee2798e286a9" />
-
 <img width="477" height="245" alt="image" src="https://github.com/user-attachments/assets/eff15d02-ee2a-40c3-b4a2-4dfc90c74e18" />
-
-<img width="476" height="245" alt="image" src="https://github.com/user-attachments/assets/6c08a832-6d20-44c6-9ce0-4d31b875682a" />
-
 <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/4f771dd9-777c-41f3-92aa-a8a7787e734c" />
-
 <img width="473" height="239" alt="image" src="https://github.com/user-attachments/assets/0add79d2-65d2-482f-ab44-4f7411961ec4" />
 
 
